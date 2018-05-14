@@ -15,7 +15,7 @@ Le bouclier vous permet de passer outre les obstacles.
 
 ## Effets sonores
 
-Une musique de fond est activé via l'API `Audio`.
+Une musique de fond est activée via l'API `Audio`.
 
 ## Design
 
