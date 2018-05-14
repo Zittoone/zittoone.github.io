@@ -1,4 +1,12 @@
-# Projet : 500 Miles
+# Projet : Web2.0 Master IFI
+
+## Author
+
+* Alexis Couvreur
+
+## Code 
+
+This source code is visisble [here](https://github.com/Zittoone/zittoone.github.io), and the playable version at my [github page](zittoone.github.io).
 
 ## Gameplay
 
