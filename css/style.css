@@ -1,0 +1,9 @@
+#myCanvas {
+    border: 1px solid;
+    background-color: rgb(3, 37, 64)
+}
+
+@font-face {
+    font-family: 'SThings';
+    src: url('../assets/font/strangersthings.ttf');
+}
