@@ -6,7 +6,7 @@
 
 ## Code 
 
-This source code is visisble [here](https://github.com/Zittoone/zittoone.github.io), and the playable version at my [github page](zittoone.github.io).
+This source code is visisble [here](https://github.com/Zittoone/zittoone.github.io), and the playable version at my [github page](https://zittoone.github.io/).
 
 ## Gameplay
 
