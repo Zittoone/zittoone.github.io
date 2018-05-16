@@ -208,8 +208,8 @@ var GF = () => {
         writeTextStroked("Appuyez sur ESPACE pour recommencer", canvas.width / 2, canvas.height / 2 + 60, 30, 2, "center", ctx);
 
         if (inputStates.space) {
-            // Reinit the game to the level 1
-            initLevel(1, function(player) {
+            // Reinit the game to the current level
+            initLevel(current_level, function(player) {
                 // Change the gameState to gameRunning
                 joueur = player;
                 gameState = gameStates.gameRunning;
