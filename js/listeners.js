@@ -8,7 +8,7 @@ function onKeydown(evt) {
         evt.inputStates.right = true;
     } else if (evt.keyCode === 40 || code === 'ArrowDown') {
         evt.inputStates.down = true;
-    } else if (evtevent.keyCode === 32 || code === 'Space') {
+    } else if (evt.keyCode === 32 || code === 'Space') {
         evt.inputStates.space = true;
     }
 }
