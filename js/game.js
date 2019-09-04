@@ -111,7 +111,7 @@ var GF = () => {
     var drawMainMenu = timestamp => {
         writeTextStroked("Appuyez sur ESPACE pour commencer", canvas.width / 2, canvas.height / 2, 30, 2, "center", ctx);
         writeTextStroked("Appuyez sur les flèches directionnelles pour vous déplacer", canvas.width / 2, canvas.height - 60, 20, 1, "center", ctx);
-        writeTextStroked("et sur ESPACE pour déclancher le bouclier", canvas.width / 2, canvas.height - 30, 20, 1, "center", ctx);
+        writeTextStroked("et sur ESPACE pour déclencher le bouclier", canvas.width / 2, canvas.height - 30, 20, 1, "center", ctx);
 
         if (inputStates.space) {
             // Callback function that will start the game once the player is fully loaded
